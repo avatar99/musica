@@ -1,0 +1,6 @@
+﻿token=NTk2NDUyNTkwNjgyNzY3Mzk1.XR5v2w.tLq3TVE9nWz-xSGBSOei0QYMiJc
+owner=557181389100023839
+prefix=1
+game=1play|Avatar
+stayinchannel=true اذا تريده ميطلع من الروم من تخلص الاغنية لاتغيره
+songinstatus=false اذا تريده يكتب بلبروفايل شنو مشتغل حطه true
